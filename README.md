@@ -105,7 +105,7 @@ puzzlesolver.ui UI文件：程序运行的整个UI界面。
 
 （3）运行，呈现UI界面如下
 
-![img](assets\wps3.jpg) 
+![wps3.jpg](assets\wps3.jpg) 
 
 （4）求解：在两个框中分别随机输入数字1-8（空出数字0的位置即可），例如（课本P91例子）
 
