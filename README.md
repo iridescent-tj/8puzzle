@@ -2,7 +2,7 @@
 
 ## 1 总体架构
 
-![img](assets\wps11.jpg)
+![img](assets/wps11.jpg)
 
 ## 2 环境说明	
 
@@ -97,40 +97,40 @@ puzzlesolver.ui UI文件：程序运行的整个UI界面。
 
 ##### （1）双击code目录下8puzzle.pro文件，进入Qt Ctreator配置界面。
 
-![img](assets\wps1.jpg) 
+![img](assets/wps1.jpg) 
 
 （2）目录结构
 
-![img](assets\wps2.jpg) 
+![img](assets/wps2.jpg) 
 
 （3）运行，呈现UI界面如下
 
-![wps3.jpg](assets\wps3.jpg) 
+![wps3.jpg](assets/wps3.jpg) 
 
 （4）求解：在两个框中分别随机输入数字1-8（空出数字0的位置即可），例如（课本P91例子）
 
-![img](assets\wps4.jpg) 
+![img](assets/wps4.jpg) 
 
 程序自动进行初始状态的检查
 
-![img](assets\wps5.jpg) 
+![img](assets/wps5.jpg) 
 
 然后进行目标状态的检查
 
-![img](assets\wps6.jpg) 
+![img](assets/wps6.jpg) 
 
 点击Solve按钮，程序会检查是否有解（基于逆序数），若无解，给出提示，要求用户调整。
 
-![img](assets\wps7.jpg) 
+![img](assets/wps7.jpg) 
 
 若有解，自动求解，然后在下框内以动画演示求解过程。
 
-![img](assets\wps8.jpg) 
+![img](assets/wps8.jpg) 
 
 演示结束，右侧框内展示搜索的路径
 
-![img](assets\wps9.jpg) 
+![img](assets/wps9.jpg) 
 
 （5）随机生成：点击Test按钮，随机生成一组测试的初始状态与目标转换，然后自动求解，演示流程同上。
 
-![img](assets\wps10.jpg) # 8puzzle
+![img](assets/wps10.jpg) # 8puzzle
